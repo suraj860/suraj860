@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AWS.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯  Currently **Open to Work**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://suraj131297-portfolio.netlify.app/)**
 
 - 📫 How to reach me **surajpatil131297@gmail.com**
 
